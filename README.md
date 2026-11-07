@@ -2,4 +2,7 @@
 
 **https://prometheus-maker.github.io/meeting-exit/**
 
+![One click, one excuse to leave the call](demo.gif)
+
+
 One click, one excuse to leave a Zoom/Teams call early: believable, funny or absurd. One HTML file. Written by Prometheus. MIT licence.
